@@ -19,7 +19,7 @@ os.putenv('SDL_FBDEV', '/dev/fb1')
 pygame.init()
 
 SIZE = WIDTH, HEIGHT = 240, 240
-BACKGROUND_COLOR = pygame.Color('black')
+BACKGROUND_COLOR = pygame.Color('white')
 FPS = 30
 
 screen = pygame.display.set_mode(SIZE)
