@@ -1,4 +1,5 @@
-# ApolloPi
+# Apollo Pi
+
 Python scripts used in the Apollo Pi Thermal Camera project. Not as efficient as they could be, but they work!
 
 An Apollo microwave detector now has a shiny new purpose as a thermal camera, powered by a Raspberry Pi Zero with an Adafruit thermal camera sensor taking the temperatures, displaying the results in real-time on a bright 1.3" TFT display.
@@ -7,7 +8,7 @@ It has a Preset and a Dynamic mode - in the first the colours shown on screen ar
 
 For more information about the project and build check out the write-ups...
 
-Instructables:
+Instructables: https://www.instructables.com/id/1979-Apollo-Pi-Thermal-Camera
 
 Hackster:
 
