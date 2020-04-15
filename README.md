@@ -10,7 +10,7 @@ For more information about the project and build check out the write-ups...
 
 Instructables: https://www.instructables.com/id/1979-Apollo-Pi-Thermal-Camera
 
-Hackster:
+Hackster: https://www.hackster.io/martin-mander/1979-apollo-pi-thermal-camera-e177fc
 
 ... and the video is on YouTube at https://youtu.be/1xjRJExzPR8
 
